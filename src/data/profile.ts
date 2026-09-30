@@ -18,7 +18,7 @@ export interface Profile {
 
 export const profile: Profile = {
   name: 'Sebastian Machkovich',
-  title: 'Junior Cloud Engineer at Schreiber Foods',
+  title: 'Junior Cloud Engineer @ Schreiber Foods',
   location: 'Green Bay, WI',
   taglines: [
     'Junior Cloud Engineer',
