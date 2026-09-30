@@ -28,7 +28,7 @@ export const profile: Profile = {
   ],
   bio: 'Cloud engineer with nearly 3 years of IT experience across cloud engineering, software development, and technical support. I build AWS infrastructure with Terraform, led an on-premises to AWS migration, and automate delivery with GitHub and FlexDeploy CI/CD. I\'ve delivered enterprise generative AI tooling on AWS and Google Cloud. I\'m also building Ridgeport, a SaaS product for roofing measurements, and I invest in real estate on the side.',
   email: 'sebastian.machkovich@gmail.com',
-  resumeUrl: '/Sebastian_Machkovich_Resume.pdf', // TODO: confirm final PDF is in public/
+  resumeUrl: '/Sebastian_Machkovich_Resume.pdf',
   links: [
     { label: 'GitHub', url: 'https://github.com/sebastianmachkovich', icon: 'Github' },
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/sebastianmachkovich', icon: 'Linkedin' },

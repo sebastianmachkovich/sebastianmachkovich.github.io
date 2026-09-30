@@ -81,7 +81,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-lg border border-slate-300 px-6 py-3 font-medium text-slate-700 transition-colors hover:border-accent hover:text-accent dark:border-slate-700 dark:text-slate-300 dark:hover:border-accent dark:hover:text-accent"
           >
-            Download r\u00e9sum\u00e9
+            Resume
             <Download size={18} />
           </a>
         </motion.div>
